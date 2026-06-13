@@ -1,10 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.einsteintimepiece.app",
-    "sha256_cert_fingerprints": [
-      "F3:2C:13:55:D9:DF:4C:8E:82:41:1C:20:D9:9B:86:47:FC:63:DF:CE:46:DB:2D:A8:30:2F:82:44:1A:BE:05:55"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.einsteintimepiece.app",
+      "sha256_cert_fingerprints": [
+        "6D:45:A6:F0:64:C8:8C:34:D4:5C:42:39:EB:77:2D:B2:B4:0A:72:A0:93:C9:D7:1D:9C:6A:F3:CE:D7:FA:2D:76",
+        "F3:2C:13:55:D9:DF:4C:8E:82:41:1C:20:D9:9B:86:47:FC:63:DF:CE:46:DB:2D:A8:30:2F:82:44:1A:BE:05:55"
+      ]
+    }
   }
-}]
+]
