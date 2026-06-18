@@ -9,5 +9,15 @@
         "F3:2C:13:55:D9:DF:4C:8E:82:41:1C:20:D9:9B:86:47:FC:63:DF:CE:46:DB:2D:A8:30:2F:82:44:1A:BE:05:55"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nimbets.app",
+      "sha256_cert_fingerprints": [
+        "7B:00:D0:68:4A:43:13:E7:17:2A:4C:02:4C:BB:3D:F8:02:80:D3:94:DE:B0:6A:1A:42:E8:47:CA:AB:80:C1:41"
+      ]
+    }
   }
 ]
