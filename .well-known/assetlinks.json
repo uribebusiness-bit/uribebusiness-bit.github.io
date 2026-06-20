@@ -16,7 +16,8 @@
       "namespace": "android_app",
       "package_name": "com.nimbets.app",
       "sha256_cert_fingerprints": [
-        "7B:00:D0:68:4A:43:13:E7:17:2A:4C:02:4C:BB:3D:F8:02:80:D3:94:DE:B0:6A:1A:42:E8:47:CA:AB:80:C1:41"
+        "7B:00:D0:68:4A:43:13:E7:17:2A:4C:02:4C:BB:3D:F8:02:80:D3:94:DE:B0:6A:1A:42:E8:47:CA:AB:80:C1:41",
+        "72:6C:C1:B4:90:47:E4:69:BB:51:79:7C:71:E3:BD:66:D7:57:9A:E7:62:C2:CA:CF:36:2D:D9:5F:A9:4C:E3:24"
       ]
     }
   }
